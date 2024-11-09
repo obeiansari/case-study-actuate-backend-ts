@@ -1,5 +1,5 @@
 const express = require('express');
-import books from './data/Book.json'
+import books from './data/Book.js'
 
 const app = express();
 

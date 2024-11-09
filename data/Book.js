@@ -54,5 +54,4 @@ export const books = [
         "year": -600,
         "shortDescription": "A biblical text exploring the themes of suffering and faith through the story of Job."
     }
-]
-  ;
+];
